@@ -3,7 +3,7 @@
 - 🚀 estou sempre buscando conhecer algo novo
 - 🌍 aspirante a Engenheiro FullStack
 - 🏕 amante de programação WEB
-- 📚atualmente estudando NodeJS
+- 📚 estudando NodeJS
 
 
 ##
