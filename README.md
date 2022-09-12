@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Marcelo Henrique ✌
 - 🏝 estou no 3° ciclo de Análise e Desenvolvimento de Sistemas
 - 🚀 estou sempre buscando conhecer algo novo
-- 🌍 aspirante a Engenheiro FullStack
+- 🌍 aspirante a Desenvolvedor BackEnd
 - 🏕 amante de programação WEB
 - 📚 estudando NodeJS
 
