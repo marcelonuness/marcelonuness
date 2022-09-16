@@ -3,7 +3,7 @@
 - 🚀 estou sempre buscando conhecer algo novo
 - 🌍 aspirante a Desenvolvedor Front-End
 - 🏕 amante de programação WEB
-- 📚 estudando NodeJS
+- 📚 estudando ReactJS
 
 
 ##
