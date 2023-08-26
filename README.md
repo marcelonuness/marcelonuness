@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Marcelo Henrique ✌
-- 🏝 estou no 3° ciclo de Análise e Desenvolvimento de Sistemas
+- 🏝 estou no 5° ciclo de Análise e Desenvolvimento de Sistemas
 - 🚀 estou sempre buscando conhecer algo novo
 - 🌍 aspirante a Desenvolvedor Front-End
 - 🏕 amante de programação WEB
-- 📚 estudando ReactJS
+- 📚 estudando ReactJS e NextJS
 
 
 ##
