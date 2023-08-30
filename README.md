@@ -2,7 +2,6 @@
 - 🏝 estou no 5° ciclo de Análise e Desenvolvimento de Sistemas
 - 🚀 estou sempre buscando conhecer algo novo
 - 🌍 aspirante a Desenvolvedor Front-End
-- 🏕 amante de programação WEB
 - 📚 estudando ReactJS e NextJS
 
 
